@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1583666055 source:z:\program\c++\实用程序\words statistics\words statistics\main.cpp
+	"class_definition.h"
+	"headers_and_prototypes.h"
+
+1583579747 z:\program\c++\实用程序\words statistics\words statistics\class_definition.h
+	<string.h>
+	<fstream>
+	<iostream>
+
+1583666089 z:\program\c++\实用程序\words statistics\words statistics\headers_and_prototypes.h
+	<iostream>
+	<fstream>
+	<string.h>
+	<cctype>
+	<vector>
+
+1583584639 source:z:\program\c++\实用程序\words statistics\words statistics\class_methods.cpp
+	"class_definition.h"
+	"headers_and_prototypes.h"
+
+1583659906 source:z:\program\c++\实用程序\words statistics\words statistics\functions.cpp
+	"class_definition.h"
+	"headers_and_prototypes.h"
+
